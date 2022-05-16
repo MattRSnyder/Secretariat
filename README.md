@@ -22,4 +22,5 @@ The type of data I was needing in order to complete this analysis was the races 
 After double checking the datasets for outliers, missing data, I remove uneccessary columns and rows including, years prior to 1940, the track condition, sire, dam, notes and the distance. Then I merged all three of the races datasets into one Excel file.
 
 
+
 ![image](https://user-images.githubusercontent.com/66499256/168672568-2af793ba-3d41-445b-bfa4-ea808eb638cc.png)
