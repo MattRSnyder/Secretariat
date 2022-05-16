@@ -1,8 +1,13 @@
 # Secretariat Compared to Other Triple Crown Race Winners (1940-2022)
 
+Project Background Info:
+
 Growing up I used to always watch the Kentucky Derby since a big portion of my family was from Louisville, Kentucky. This year my girlfriend and I decided that we are most likely going to live in Lexington Kentucky (the horse capital of the world) which got me more interested in the history of horses, especially horse racing.
 
 For this project I wanted to compare all race horses from the modern-era (1940-present) to see how Secratariat stacks up against all of the other horses in the three premiere races, the Preakness, the Belmont and the Derby.
+
+---------------------------------------------------
+
 
 
 Steps:
