@@ -24,7 +24,7 @@ The type of data I was needing in order to complete this analysis was the races 
 
 3. **Process**
 
-After double checking the datasets for outliers, missing data, I removed uneccessary columns and rows including, years prior to 1940, sire, dam, notes and the distance. Then I merged all three of the races datasets into one Excel file.
+After double checking the datasets for outliers and missing data, I removed uneccessary columns and rows including, years prior to 1940, sire, dam, notes and the distance. Then I merged all three of the races datasets into one Excel file.
 
 
 
