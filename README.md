@@ -28,4 +28,4 @@ After double checking the datasets for outliers and missing data, I removed unec
 
 
 
-![image](https://user-images.githubusercontent.com/66499256/168672568-2af793ba-3d41-445b-bfa4-ea808eb638cc.png)
+![image](https://user-images.githubusercontent.com/66499256/171416998-64ab5bc5-d0a7-4e3a-a46c-279ce3f7d615.png)
